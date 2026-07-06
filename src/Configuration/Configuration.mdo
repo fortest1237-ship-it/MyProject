@@ -68,6 +68,7 @@
   <catalogs>Catalog.Города</catalogs>
   <catalogs>Catalog.Пользователи</catalogs>
   <catalogs>Catalog.demo_Справочник</catalogs>
+  <catalogs>Catalog.feature_Справочник</catalogs>
   <documents>Document.ЗаказыПоставщикам</documents>
   <documents>Document.ПриходныеНакладные</documents>
   <documents>Document.РасходыДенежныхСредств</documents>
