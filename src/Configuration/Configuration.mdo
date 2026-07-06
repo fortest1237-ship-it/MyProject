@@ -57,6 +57,7 @@
   <roles>Role.СБ_РаботаСДанными</roles>
   <roles>Role.СБ_ПросмотрДанных</roles>
   <commonModules>CommonModule.ОбработчикиПодписокНаСобытия</commonModules>
+  <commonModules>CommonModule.demo_ОбщийМодуль</commonModules>
   <eventSubscriptions>EventSubscription.ЗаписьЗаказаПоставщика</eventSubscriptions>
   <definedTypes>DefinedType.ДенежныеСредства</definedTypes>
   <constants>Constant.demo_Константа</constants>
