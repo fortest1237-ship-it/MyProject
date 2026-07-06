@@ -59,6 +59,7 @@
   <commonModules>CommonModule.ОбработчикиПодписокНаСобытия</commonModules>
   <eventSubscriptions>EventSubscription.ЗаписьЗаказаПоставщика</eventSubscriptions>
   <definedTypes>DefinedType.ДенежныеСредства</definedTypes>
+  <constants>Constant.demo_Константа</constants>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Поставщики</catalogs>
   <catalogs>Catalog.Договоры</catalogs>
