@@ -10,7 +10,7 @@
   <name>fix_Справочник</name>
   <synonym>
     <key>ru</key>
-    <value>Справочник (фикс)</value>
+    <value>Справочник (дубль фикс)</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.fix_Справочник.StandardAttribute.Code</inputByString>
