@@ -50,6 +50,7 @@
   </languages>
   <subsystems>Subsystem.Поставки</subsystems>
   <subsystems>Subsystem.Заказы</subsystems>
+  <subsystems>Subsystem.demo_Подсистема</subsystems>
   <styles>Style.Корпоративный</styles>
   <commonPictures>CommonPicture.КартинкаПоставки</commonPictures>
   <commonPictures>CommonPicture.КартинкаЗаказы</commonPictures>
@@ -61,6 +62,7 @@
   <eventSubscriptions>EventSubscription.ЗаписьЗаказаПоставщика</eventSubscriptions>
   <definedTypes>DefinedType.ДенежныеСредства</definedTypes>
   <constants>Constant.demo_Константа</constants>
+  <commonForms>CommonForm.demo_Форма</commonForms>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Поставщики</catalogs>
   <catalogs>Catalog.Договоры</catalogs>
