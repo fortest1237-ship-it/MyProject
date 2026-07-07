@@ -57,6 +57,7 @@
   <roles>Role.СБ_РаботаСДанными</roles>
   <roles>Role.СБ_ПросмотрДанных</roles>
   <commonModules>CommonModule.ОбработчикиПодписокНаСобытия</commonModules>
+  <commonModules>CommonModule.demo_ОбщийМодуль</commonModules>
   <eventSubscriptions>EventSubscription.ЗаписьЗаказаПоставщика</eventSubscriptions>
   <definedTypes>DefinedType.ДенежныеСредства</definedTypes>
   <constants>Constant.demo_Константа</constants>
@@ -67,6 +68,7 @@
   <catalogs>Catalog.Города</catalogs>
   <catalogs>Catalog.Пользователи</catalogs>
   <catalogs>Catalog.demo_Справочник</catalogs>
+  <catalogs>Catalog.feature_Справочник</catalogs>
   <catalogs>Catalog.fix_Справочник</catalogs>
   <documents>Document.ЗаказыПоставщикам</documents>
   <documents>Document.ПриходныеНакладные</documents>
